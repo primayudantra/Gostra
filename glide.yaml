@@ -1,0 +1,4 @@
+package: github.com/primayudantra/gostra
+import:
+- package: github.com/labstack/echo
+  version: v3.3.6
